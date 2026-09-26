@@ -1,0 +1,10 @@
+{
+  "description": "Manage and secure Azure Storage Accounts with a comprehensive dashboard featuring firewall settings, private endpoint management, and security diagnostics.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
